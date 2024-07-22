@@ -4,7 +4,10 @@
 <img src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi256&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi256" /> </p>
 
+- I am competitive programming enthusiast
+- Current learning backend using Nodejs 
 - 📫 How to reach me **yadavvaishnavi95@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
